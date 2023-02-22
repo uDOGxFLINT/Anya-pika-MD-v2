@@ -13,7 +13,7 @@ global.DocumentTitle = "ataraxiaaa"
 
 
 global.ownername = "ataraxiaaa"   // Owner name //        
-global.ownernumber = ['+1(365)299-2119'] 
+global.ownernumber = ['919037368644'] 
 global.socialm = "@ataraxiaaa.aa" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = ""   // Yt chanel name //
 global.continent = "Europe" // your continent name 
